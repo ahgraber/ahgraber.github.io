@@ -4,6 +4,6 @@ title: About Me
 ---
 
 ## Social Links
-* twitter: @namnnumbr  
-* linkedin: /in/ahgraber  
-* github: github.com/ahgraber  
+* twitter: [@namnnumbr](https://twitter.com/namnnumbr)
+* linkedin: [/in/ahgraber](https://linkedin.com/in/ahgraber)
+* github: [ahgraber](https://github.com/ahgraber)
