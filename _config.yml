@@ -11,6 +11,7 @@ url: "https://ahgraber.github.io" # the base hostname & protocol for your site, 
 #twitter_username: jekyllrb
 github_username:  ahgraber
 permalink: /blog/:year/:month/:day/:title
+permalink: /projects/:title
 
 # Build settings
 markdown: kramdown
