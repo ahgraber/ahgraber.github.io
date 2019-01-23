@@ -5,7 +5,7 @@ title: Project Portfolio
 	<h1>{{ page.title }}</h1>
 	<ul class="projects">
 
-	  {% for post in site.projects %}
-	    <li><a href="{{ post.url }}" title="{{ projects.title }}">{{ projects.title }}: description="{{ projects.description }}">{{ projects.description }}</a></li>
+	  {% for project in site.projects %}
+	    <li><a href="{{ post.url }}" title="{{ project.title }}">{{ project.title }}: description="{{ project.description }}">{{ projects.description }}</a></li>
 	  {% endfor %}
 	</ul>
