@@ -1,6 +1,6 @@
 ---
 layout: project
-titel: "Dummy project!"
+title: "Dummy project!"
 description: "Project blurb"
 ---
 
