@@ -16,10 +16,25 @@ collections:
     output        : true
     permalink     : /:collection/:path/:title:output_ext
 
+defaults:
+  - scope: 
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 #permalink: /blog/:year/:month/:day/:title
 
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
