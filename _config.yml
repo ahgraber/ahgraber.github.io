@@ -14,7 +14,7 @@ github_username:  ahgraber
 collections:
   pages           :
     output        : true
-    permalink     : /:collection/:path
+    permalink     : /:collection/:title:output_ext
 
 
 #permalink: /blog/:year/:month/:day/:title
