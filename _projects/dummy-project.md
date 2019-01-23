@@ -1,5 +1,5 @@
 ---
-layout: projet
+layout: project
 titel: "Dummy project!"
 description: "Project blurb"
 ---
