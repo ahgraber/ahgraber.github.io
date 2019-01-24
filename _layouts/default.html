@@ -1,13 +1,6 @@
-<!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="assets/css/styles.css">
-		</head>
-		<body>
-			{% include navigation.html %}
-			{{ content }}
-			{% include footer.html %}
-		</body>
-	</html>
+---
+theme :
+  name : twitter
+---
+{% include JB/setup %}
+{% include themes/twitter/default.html %}
