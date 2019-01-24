@@ -3,6 +3,8 @@ layout: default
 title: About Me
 ---
 
+# About Me
+
 View my [resume](resume){:target="_blank"}  
 
 Catch up with me on social media:
