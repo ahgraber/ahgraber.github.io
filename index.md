@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to Alex Graber's Portfolio
+title: Welcome to Alex Graber's Portfolio &nbsp;
 tagline: Data Science projects and presentations
 description: 
 ---
@@ -11,5 +11,3 @@ description:
 
 
 ---
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/) This site is based on [Karl Broman's simple site](https://github.com/kbroman/simple_site).
