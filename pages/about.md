@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+tagline:
 ---
 
 View my [resume](resume){:target="_blank"}  
