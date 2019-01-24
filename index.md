@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to Alex Graber's Portfolio &nbsp;
+title: Welcome to Alex Graber's Portfolio
 tagline: Data Science projects and presentations
 description: 
 ---
