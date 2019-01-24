@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: page
 title: About Me
 ---
-
-# About Me
 
 View my [resume](resume){:target="_blank"}  
 
