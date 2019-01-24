@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-tagline:
+tagline: Resume & Social Media
 ---
 
 View my [resume](resume){:target="_blank"}  
