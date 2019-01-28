@@ -4,7 +4,7 @@ title: About Me
 tagline: Resume & Social Media
 ---
 
-View my [resume](resume){:target="_blank"}  
+View my [resume](/resume){:target="_blank"}  
 
 Catch up with me on social media:
 * linkedin: [/in/ahgraber](https://linkedin.com/in/ahgraber)
